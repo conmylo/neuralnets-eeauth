@@ -52,3 +52,4 @@ for distance in distances:
     print(f"NCC {distance} fit time: {fitNCCTime}s \n"
           f"NCC {distance} predict time: {predictNCCTime}s \n"
           f"NCC {distance} accuracy: {accuracyNCC} \n")
+    
