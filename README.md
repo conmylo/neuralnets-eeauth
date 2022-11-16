@@ -1,2 +1,2 @@
 # neuralnets-eeauth
-This repository contains the projects for the neural nets module.
+Neural nets module project for ee@auth.
